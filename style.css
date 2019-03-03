@@ -1,0 +1,71 @@
+ul.horizontal-list {
+	min-width: 696px;
+	padding-top: 20px;
+	align-content: center;
+	list-style-type: none;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+
+ul.horizontal-list li {
+	display: inline;
+	padding: 20px;
+}
+
+ul.horizontal-list li a {
+	text-decoration: none;
+	color: #8787c1;
+}
+
+.table {
+	display: table;   /* Allow the centering to work */
+	margin: 0 auto;
+	align-content: center;
+}
+
+.icon {
+	width: 32px;
+	height: 32px;
+}
+
+.center {
+  text-align: center;
+}
+
+.pad-body {
+	padding: 0 70px 70px 70px;
+	font-family: Georgia;
+}
+
+.no-decoration {
+	list-style-type: none;
+}
+
+.sub-heading {
+	color: #6d9ad6;
+}
+
+.exp-icon {
+	float:right;
+	width: 130px;
+	height: 140px;
+	margin-right: 30px;
+}
+
+.edu-icon {
+	float:right;
+	width: 120px;
+	height: 120px;
+	margin-right: 30px;
+}
+
+.exp-body {
+	width: 80%;
+}
+
+.proj-desc {
+	width: 80%;
+}
