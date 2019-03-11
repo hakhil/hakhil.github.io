@@ -69,3 +69,13 @@ ul.horizontal-list li a {
 .proj-desc {
 	width: 80%;
 }
+
+a.nostyle:link {
+    text-decoration: inherit;
+    color: blue;
+}
+
+a.nostyle:visited {
+    text-decoration: inherit;
+    color: blue;
+}
